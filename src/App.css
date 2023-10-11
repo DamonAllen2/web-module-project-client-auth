@@ -24,6 +24,20 @@
   color: white;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-panel {
+  width: 50rem;
+  padding: 1rem;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid black;
+}
+
 .App-link {
   color: #61dafb;
 }
